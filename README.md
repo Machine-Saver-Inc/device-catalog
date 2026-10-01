@@ -1,5 +1,23 @@
 # Public Catalog
 
+<!-- machine-saver-scope:start -->
+## Scope
+
+Machine Saver's Actility device-catalog fork for device profiles, drivers and upstream contribution preparation.
+
+**Owner:** Machine-Saver-Inc. **Development area:** Protocol and integration.
+
+## Ownership boundaries
+
+This fork follows Actility's catalog structure and review process; it is not a sensor firmware repository or private engineering backlog.
+
+## Development tracking
+
+Track work in this repository's issues and pull requests. Cross-repository work is coordinated through the [Machine Saver development Projects](https://github.com/orgs/Machine-Saver-Inc/projects).
+
+Follow this repository's contribution instructions and preserve links to related product issues. Scope describes responsibility; release and deployment readiness require the repository's own evidence.
+<!-- machine-saver-scope:end -->
+
 The TPX Device Public Catalog Repository contains information about LoRaWAN end-devices, this acts as a key data source for device catalogs and on-boarding devices on LoRaWAN networks.
 
 Under the **vendors'** directory, you can find all vendors registered.
